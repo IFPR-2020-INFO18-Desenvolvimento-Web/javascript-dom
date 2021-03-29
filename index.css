@@ -1,0 +1,19 @@
+#botao-selector {
+  background-color: brown;
+}
+
+.botao-principal {
+  background-color: coral;
+}
+
+/* .botao-estilizado {
+} */
+
+.grande {
+  font-size: 300%;
+}
+
+.colorida {
+  color: #0f1de6;
+  background-color: #84dafb;
+}
